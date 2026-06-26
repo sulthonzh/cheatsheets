@@ -55,5 +55,6 @@
     "snapshotSerializers": [
       " <rootDir>/node_modules/jest-html"
     ]
-  }
+  },
+  "private": true
 }
